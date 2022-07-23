@@ -1,0 +1,10 @@
+baseURL = 'https://swmsplendor.github.io'
+languageCode = 'ko-kr'
+title = 'SW마에스트로 Splendor 팀 블로그'
+theme = "paper"
+
+[params]
+    # show home page profile
+    avatar = 'sungkisa@naver.com'       # Gravatar email or image url(e.g. "https://deno.land/logo.svg")
+    name = 'Splendor' # Name of the author
+    bio = 'SW마에스트로 Splendor 팀 블로그'
