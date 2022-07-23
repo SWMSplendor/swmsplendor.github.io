@@ -1,10 +1,10 @@
 baseURL = 'https://blog.orderify.kr'
 languageCode = 'ko-kr'
-title = 'SW마에스트로 Orderify 팀 블로그'
+title = 'Orderify'
 theme = "paper"
 
 [params]
     # show home page profile
-    avatar = 'sungkisa@naver.com'       # Gravatar email or image url(e.g. "https://deno.land/logo.svg")
+    avatar = 'https://blog.orderify.kr/LOGO.png'       # Gravatar email or image url(e.g. "https://deno.land/logo.svg")
     name = 'Orderify' # Name of the author
-    bio = 'SW마에스트로 Orderify 팀 블로그'
+    bio = 'SW마에스트로 Orderify 팀 블로그입니다.'
